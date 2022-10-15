@@ -25,10 +25,10 @@
 14. vectoriser.pickle
 
 ## Project Contributors: -
-Shreeja Mehta
-Asad Ansari
-Pranav Prasanth Naranatt
-Teja Thota
+* Shreeja Mehta
+* Asad Ansari
+* Pranav Prasanth Naranatt
+* Teja Thota
 
 ## Operation Instructions
 Run the model.ipynb file.
